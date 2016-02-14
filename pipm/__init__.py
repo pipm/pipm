@@ -1,0 +1,5 @@
+__appname__ = "pipm"
+__version__ = "0.0.1"
+__authors__ = "Mateusz Bagiński, Michał Proszek"
+__license__ = "MIT"
+__description__  = "A wrapper for pip to make your life easier"
